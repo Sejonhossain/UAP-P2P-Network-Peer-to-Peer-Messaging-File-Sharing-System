@@ -267,7 +267,7 @@ Start the first application instance.
 Example:
 
 ```text
-Peer Name: Alice
+Peer Name: Sejon
 Port: 5000
 ```
 
@@ -284,7 +284,7 @@ Start a second application instance.
 Example:
 
 ```text
-Peer Name: Bob
+Peer Name: Dipu
 Port: 5001
 ```
 
@@ -441,8 +441,8 @@ To send a message:
 Example:
 
 ```text
-Alice → Hello Bob!
-Bob   → Hello Alice!
+Sejon → Hello Dipu!
+Dipu   → Hello Sejon!
 ```
 
 Messages are transmitted directly over the established TCP connection.
